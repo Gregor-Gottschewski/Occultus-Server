@@ -27,7 +27,8 @@ The following software must be installed on your system:
 
 ### Installation
 
-Download the server .jar [here](). To start the server enter:
+Download the server .jar [here](https://github.com/Gregor-Gottschewski/Occultus-Server/releases).
+To start the server enter:
 
       java -jar occultusserver0.0.1.jar
 
@@ -37,7 +38,7 @@ After the installation, the server runs.
 ### Run the server
 Start Occultus-Server via your terminal:
 
-      java -jar occultus-server1.0.0.jar --port 2999 --password <your_occultus_password>
+      java -jar occultus-server0.0.1.jar --port 2999 --password <your_occultus_password>
 
 **The default port is 2100.**
 
